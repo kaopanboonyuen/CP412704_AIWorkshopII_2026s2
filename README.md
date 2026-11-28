@@ -48,7 +48,7 @@
 
 <div align="center">
 
-[![Open Team Sheet](https://img.shields.io/badge/%F0%9F%93%9D_OPEN_TEAM_SHEET-Register_Now-22C55E?style=for-the-badge&labelColor=0f172a)](https://docs.google.com/spreadsheets/d/1409OGxLslffff)
+[![Open Team Sheet](https://img.shields.io/badge/%F0%9F%93%9D_OPEN_TEAM_SHEET-Register_Now-22C55E?style=for-the-badge&labelColor=0f172a)](https://docs.google.com/spreadsheets/d/1409OGxLslZ_U6vF-PXP6ZWplRFXvLuZNHB4O2v3wjsA/edit?usp=sharing)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Join Zoom](https://img.shields.io/badge/%F0%9F%8E%A5_JOIN_ON_ZOOM-Every_Monday_17:00-2D8CFF?style=for-the-badge&labelColor=0f172a)](https://kku-th.zoom.us/j/9158ffff)
+[![Join Zoom](https://img.shields.io/badge/%F0%9F%8E%A5_JOIN_ON_ZOOM-Every_Monday_17:00-2D8CFF?style=for-the-badge&labelColor=0f172a)](https://kku-th.zoom.us/j/91588791395?pwd=jF8f73HcfigbTTYMvk8Wb15YYDbgBQ.1)
 
 </div>
 
