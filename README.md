@@ -21,6 +21,26 @@
 
 <div align="center">
 
+# ✅ MONDAY CHECK-IN
+
+<sub>Opens by itself every <b>Monday 17:00 – 18:00 (ICT)</b>. No login, just your Student ID and name.</sub>
+
+<br/><br/>
+
+<a href="https://kaopanboonyuen.github.io/CP412704_AIWorkshopII_2026s2/"><img src="https://img.shields.io/badge/%E2%9C%85%20%20CHECK%20IN%20NOW%20%20%C2%B7%20Every%20Monday%2017%3A00-22C55E?style=for-the-badge&labelColor=0f172a&logoColor=white" alt="Check in now" height="64"/></a>
+
+<br/>
+
+<sub>🔗 <a href="https://kaopanboonyuen.github.io/CP412704_AIWorkshopII_2026s2/">kaopanboonyuen.github.io/CP412704_AIWorkshopII_2026s2</a></sub>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
 # 🚨 START HERE · 2 Things Every Student Must Do
 
 <sub>Complete both before our next session. It takes less than five minutes.</sub>
